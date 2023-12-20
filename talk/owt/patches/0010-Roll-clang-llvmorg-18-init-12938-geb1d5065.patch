@@ -15,7 +15,7 @@ index 2e56c78afd..5d37c5e7a4 100755
  # https://chromium.googlesource.com/chromium/src/+/main/docs/updating_clang.md
  # Reverting problematic clang rolls is safe, though.
  # This is the output of `git describe` and is usable as a commit-ish.
--CLANG_REVISION = 'llvmorg-16-init-6578-g0d30e92f'
+-CLANG_REVISION = 'llvmorg-18-init-12938-geb1d5065'
 +CLANG_REVISION = 'llvmorg-18-init-12938-geb1d5065'
  CLANG_SUB_REVISION = 1
  
